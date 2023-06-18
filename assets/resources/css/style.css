@@ -967,6 +967,23 @@ transform: translate(-50%);
   text-align: center;
   margin-top: 30px;
 }
+/* ***************************contribute section starts*****************/
+.contribute_section{
+  margin-top: 30px;
+  text-align: center;
+}
+.contribute_section h1{
+  text-align: center;
+  color: #fff;
+  padding: 30px 10px;
+  font-size: 22px;
+  background-color: #098700;
+
+}
+.contribute_info{
+  padding: 30px 0;
+}
+/* ***************************contribute section ends*****************/
 
 
 /*/////////////////////////////////////Contacts section Starts here///////////////////////////*/
@@ -1083,3 +1100,91 @@ line-height: 65px;
 background-color: red;
 }
 /*/////////////////////////////////Contacts section Ends here//////////////////////////////////*/
+/* ////////////////////////////////president Section Start Here//////////////////////////// */
+.administration-section{
+  width: 75%;
+  margin: 4rem auto;
+  background: #fff;
+  padding: 2rem;
+}
+.administration-section .img{
+  text-align: center;
+  position: relative;
+  
+}
+/* .administration-section .img img{
+  width: 100%;
+} */
+.adminstration-heading{
+  display: block;
+  content: "";
+  bottom:50px;
+  background: rgba(255, 254, 254,0.8);
+  width: 100%;
+  color: #000;
+  text-align: start;
+  padding-left: 3rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.administration-item{
+  margin-top: 4rem;
+}
+.administration-item h2{
+  color: #000;
+  margin-bottom: 1rem;
+}
+.administration-item ul{
+  padding-left: 3rem;
+}
+.administration-item ul li{
+  font-weight: 1;
+  margin: 5px 0;
+}
+.administration-item ul li i{
+  margin-right: 1rem;
+}
+.administration-item p{
+  font-weight: 1;
+  padding-left: 3rem;
+  border-left:4px solid;
+  text-align: justify;
+}
+/* ////////////////////////////////president Section End Here//////////////////////////// */
+/* ////////////////////////////////event_view Section Start Here//////////////////////////// */
+.admission-section{
+  width: 80%;
+  margin: 0 auto;
+  background: rgb(245, 245, 245);
+  padding: 2rem;
+  color: #000;
+}
+.admission-section .images img{ 
+  width: 100%;
+  margin-bottom: 4rem;
+}
+.admission-section .title-content{
+  padding-left: 3rem;
+  border-left: 3px solid;
+  margin-bottom: 4rem;
+}
+.admission-section .title-content p{
+  font-weight: 1;
+}
+.admission-section .admission-item h2{
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+.admission-section .admission-item ul{
+  margin-left: 4rem;
+  margin-bottom: 2rem;
+}
+.admission-section .admission-item ul li {
+	list-style: block;
+	font-size: 15px;
+	font-weight: normal;
+	font-weight: 1;
+	padding: 5px 0;
+  text-align: justify;
+}
+/* ////////////////////////////////event_view Section End Herer//////////////////////////// */
